@@ -14,14 +14,14 @@
         <span>Jaseem's</span>Portfolio
        </a>
 
-        <i class="bx bx-menu" id="menu-icon"></i> 
+        
 
     <nav class="navbar">
       <a href="#home" class="active">Home</a>
       <a href="#about">About</a>
       <a href="#services">Services</a>
       <a href="#projects">Projects</a>
-      <a href="#contact" onclick=touch() >Contact</a>
+      <a href="#contact">Contact</a>
     </nav>
 </header>
         
@@ -127,7 +127,7 @@
             
         <section class="about" id="about">
             <div class="about-img">
-               ![pic2](https://github.com/user-attachments/assets/83e3d2f1-6cfe-4795-897d-ee4b1d748ac1)
+               [pic2](https://github.com/user-attachments/assets/83e3d2f1-6cfe-4795-897d-ee4b1d748ac1)
             </div>
 
              <div class="about-content">
