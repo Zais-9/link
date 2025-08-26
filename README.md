@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -126,7 +127,7 @@
             
         <section class="about" id="about">
             <div class="about-img">
-                <img src="pic2.jpg" alt="">
+               ![pic2](https://github.com/user-attachments/assets/83e3d2f1-6cfe-4795-897d-ee4b1d748ac1)
             </div>
 
              <div class="about-content">
