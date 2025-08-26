@@ -29,7 +29,7 @@
            <h3 class="text-animation">I am a <span></span> </h3>
 
            <div class="home-image">
-            <img src="pic1.jpg">
+           </body>![pic1](https://github.com/user-attachments/assets/384a0061-edf9-45d6-9ebd-086df562546a)
         </div>
         <br><br>
 
@@ -319,7 +319,6 @@
         </p>
     </footer>
 
-</body>
 </html>
 
 
